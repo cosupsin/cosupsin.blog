@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://cosupsin</id>
+    <id>https://cosupsin.github.io</id>
     <title>Gridea</title>
-    <updated>2020-09-22T08:57:28.278Z</updated>
+    <updated>2020-09-22T09:11:18.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://cosupsin"/>
-    <link rel="self" href="https://cosupsin/atom.xml"/>
+    <link rel="alternate" href="https://cosupsin.github.io"/>
+    <link rel="self" href="https://cosupsin.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://cosupsin/images/avatar.png</logo>
-    <icon>https://cosupsin/favicon.ico</icon>
+    <logo>https://cosupsin.github.io/images/avatar.png</logo>
+    <icon>https://cosupsin.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[#测试]]></title>
-        <id>https://cosupsin/post/ce-shi/</id>
-        <link href="https://cosupsin/post/ce-shi/">
+        <id>https://cosupsin.github.io/post/ce-shi/</id>
+        <link href="https://cosupsin.github.io/post/ce-shi/">
         </link>
         <updated>2020-09-22T10:52:08.000Z</updated>
         <content type="html"><![CDATA[<h4 id="测死">测死</h4>
