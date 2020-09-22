@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cosupsin.github.io</id>
     <title>Gridea</title>
-    <updated>2020-09-22T09:20:01.029Z</updated>
+    <updated>2020-09-22T09:32:04.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cosupsin.github.io"/>
     <link rel="self" href="https://cosupsin.github.io/atom.xml"/>
@@ -15,9 +15,12 @@
         <id>https://cosupsin.github.io/post/ce-shi/</id>
         <link href="https://cosupsin.github.io/post/ce-shi/">
         </link>
-        <updated>2020-09-22T11:52:08.000Z</updated>
+        <updated>2020-09-22T12:52:08.000Z</updated>
         <content type="html"><![CDATA[<h3 id="你好">你好</h3>
 <p><strong>这是我的第一篇文档</strong></p>
+<h3 id="你好-2">你好</h3>
+<p><strong>这是我的第一篇文档</strong></p>
+<figure data-type="image" tabindex="1"><img src="https://raw.githubusercontent.com/cosupsin/Picbed_PicGo_blog/master/img/2.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
 </feed>
